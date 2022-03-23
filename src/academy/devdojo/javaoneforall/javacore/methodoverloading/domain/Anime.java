@@ -6,6 +6,8 @@ public class Anime {
     private int episodes;
     private String gender;
 
+    /* Method overloading is a feature of Java in which a class has more than one
+      method of the same name and their parameters are different */
     public void init(String name, String type, int episodes) {
         this.name = name;
         this.type = type;
