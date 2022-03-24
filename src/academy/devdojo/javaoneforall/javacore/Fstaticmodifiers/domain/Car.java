@@ -4,7 +4,7 @@ public class Car {
     private String name;
     private double maxSpeed;
     /* static attributes belongs to classe and all objects share same value */
-    public static double speedLimit = 250;
+    private static double speedLimit = 250;
 
     public Car(String name, double maxSpeed) {
         this.name = name;
@@ -32,5 +32,14 @@ public class Car {
 
     public void setMaxSpeed(double maxSpeed) {
         this.maxSpeed = maxSpeed;
+    }
+
+    /* Static methods are recomended to use when it don't access a class attribute */
+    public static double getSpeedLimit() {
+        return speedLimit;
+    }
+
+    public static void setSpeedLimit(double speedLimit) {
+        Car.speedLimit = speedLimit;
     }
 }
