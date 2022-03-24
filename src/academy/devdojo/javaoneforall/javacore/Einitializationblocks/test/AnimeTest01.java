@@ -1,4 +1,6 @@
-package academy.devdojo.javaoneforall.javacore.Einitializationblocks.domain;
+package academy.devdojo.javaoneforall.javacore.Einitializationblocks.test;
+
+import academy.devdojo.javaoneforall.javacore.Einitializationblocks.domain.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {
