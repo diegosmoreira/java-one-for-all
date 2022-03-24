@@ -1,4 +1,4 @@
-package academy.devdojo.javaoneforall.javacore.methodoverloading.domain;
+package academy.devdojo.javaoneforall.javacore.Cmethodoverloading.domain;
 
 public class Anime {
     private String name;

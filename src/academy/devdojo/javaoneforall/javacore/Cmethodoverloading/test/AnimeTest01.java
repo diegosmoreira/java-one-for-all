@@ -1,6 +1,6 @@
-package academy.devdojo.javaoneforall.javacore.methodoverloading.test;
+package academy.devdojo.javaoneforall.javacore.Cmethodoverloading.test;
 
-import academy.devdojo.javaoneforall.javacore.methodoverloading.domain.Anime;
+import academy.devdojo.javaoneforall.javacore.Cmethodoverloading.domain.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

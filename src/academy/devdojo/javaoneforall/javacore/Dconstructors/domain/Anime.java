@@ -1,4 +1,4 @@
-package academy.devdojo.javaoneforall.javacore.constructors.domain;
+package academy.devdojo.javaoneforall.javacore.Dconstructors.domain;
 
 public class Anime {
     private String name;

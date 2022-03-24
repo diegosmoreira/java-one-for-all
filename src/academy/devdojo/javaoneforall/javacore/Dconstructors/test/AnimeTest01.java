@@ -1,6 +1,6 @@
-package academy.devdojo.javaoneforall.javacore.constructors.test;
+package academy.devdojo.javaoneforall.javacore.Dconstructors.test;
 
-import academy.devdojo.javaoneforall.javacore.constructors.domain.Anime;
+import academy.devdojo.javaoneforall.javacore.Dconstructors.domain.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {
